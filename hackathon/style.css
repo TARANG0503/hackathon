@@ -68,4 +68,16 @@ input[type=text],input[type=password]{
 h1{
     text-align: center
 }
+q {
+    font-style:italic ;
+    font-family :'Be Vietnam', sans-serif;
+    color :rgba(0,0,0,0.7);
+    text-align : center ; 
+}
+blockquote {
+    letter-spacing: 0.2em ; 
+    text-align : center ;
+    font-family : 'Abril Fatface',' cursive';
+    color:black ;
+}
 
