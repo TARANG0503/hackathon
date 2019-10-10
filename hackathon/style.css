@@ -48,12 +48,22 @@ input[type=text],input[type=password]{
     box-sizing: border-box;
     margin-left: 30%;
 }
-.form-wrapper{
+.form-container{
+    display:flex;
+}
+.form-wrapper1{
+    flex:1;
     width:40%;
     margin: auto;
     background-color: #d6f7b7;
     padding-bottom: 5px;
 }
+.form-wrapper2{
+    flex:1;
+    width:40%;
+    margin: auto;
+    background-color: #d88f89;
+    padding-bottom: 5px;
 h1{
     text-align: center
 }
