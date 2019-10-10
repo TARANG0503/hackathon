@@ -1,0 +1,96 @@
+body{
+    padding: 0px;
+    margin: 0px 0px;
+    background-color: #b7ed85;
+}
+.top-nav{
+    padding: 0px;
+    margin:0px ;
+    width:100%;
+    height: 100px;
+    background-color: #ffffff;
+}
+.logo{
+    /* flex: 1; */
+    padding-top: 10px;
+    float: left;
+    height:70px; 
+    width: 20%;
+}
+li{
+    display: inline;
+    float: right;
+    padding:45px 15px 0px 15px;
+    font-size: 20px;
+}
+
+.nav-container{
+    
+    width:80%;
+    margin: auto;
+    /* display:flex; */
+}
+.register{
+    
+    margin:auto;
+    display: block;
+    background-color:green;
+    padding: 20px;
+}
+.wrapper{
+    margin-top:20px;
+}
+input[type=text],input[type=password]{
+    margin:auto;
+    display: block;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: 30%;
+}
+.form-wrapper{
+    width:40%;
+    margin: auto;
+    background-color: #d6f7b7;
+    padding-bottom: 5px;
+}
+h1{
+    text-align: center
+}
+h2 {
+    color :white ;
+}
+.caption {
+    padding-top:140px;
+}
+.btn-modify {
+    margin-left:48%;   
+   margin-top :20px ;   
+}
+.button 
+{
+    background: coral;
+    justify-content: center;
+    align-content:center ;
+    color:white ;
+    border:0;
+}
+.button:hover
+{
+    background: #333333;
+}
+body {
+    background : url(https://www.toptal.com/designers/subtlepatterns/patterns/interlaced.png);
+}
+q {
+    font-style:italic ;
+    font-family :'Be Vietnam', sans-serif;
+    color :rgba(0,0,0,0.7);
+    text-align : center ; 
+}
+blockquote {
+    letter-spacing: 0.4em ; 
+    text-align : center ;
+    font-family : 'Abril Fatface',' cursive';
+    color:black ;
+}
