@@ -23,6 +23,9 @@ li{
     padding:45px 15px 0px 15px;
     font-size: 20px;
 }
+<h1 style="color:blue;">A Blue Heading</h1>
+
+<p style="color:red;">A red paragraph.</p>
 
 .nav-container{
     
@@ -37,9 +40,7 @@ li{
     background-color:green;
     padding: 20px;
 }
-.wrapper{
-    margin-top:20px;
-}
+
 input[type=text],input[type=password]{
     margin:auto;
     display: block;
@@ -59,9 +60,7 @@ input[type=text],input[type=password]{
     padding-bottom: 5px;
 }
 .form-wrapper2{
-    /* flex:1; */
-    width:40%;
-    margin: auto;
+    /* flex:1; *
     background-color: #d88f89;
     padding-bottom: 5px;
 }
@@ -70,14 +69,12 @@ h1{
 }
 q {
     font-style:italic ;
-    font-family :'Be Vietnam', sans-serif;
-    color :rgba(0,0,0,0.7);
-    text-align : center ; 
+    font-family :'Arial', sans-serif;
 }
 blockquote {
-    letter-spacing: 0.2em ; 
+    letter-spacing: 0.87em ; 
     text-align : center ;
     font-family : 'Abril Fatface',' cursive';
-    color:black ;
+    color:white ;
 }
 
